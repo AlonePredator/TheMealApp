@@ -33,15 +33,15 @@ These instructions will get you a copy of the project up and running on your loc
 ## Built With
 
 - HTML
-- CSS
+- Bootstrap(CSS Framework)
 - JavaScript
 
 ## Demo
 
-Check out the live demo of the application
+Check out the live demo of the application at https://alonepredator.github.io/TheMealApp/
 
 ## Authors
-
+Sujit Kumar Yadav(https://github.com/AlonePredator)
 
 ## Acknowledgments
 
